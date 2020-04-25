@@ -10,4 +10,4 @@ through discovery. The crawler will pick it up and sort it into the right list
 automatically.
 
 [EIP-1459]: https://eips.ethereum.org/EIPS/eip-1459
-[eth-entry]: https://github.com/ethereum/devp2p/blob/master/enr-entries/eth.md
+[sol-entry]: https://github.com/ethereum/devp2p/blob/master/enr-entries/eth.md
